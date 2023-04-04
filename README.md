@@ -5,6 +5,7 @@
 [![Coverage Status](https://shields.mitmproxy.org/codecov/c/github/mitmproxy/mitmproxy/main.svg?label=codecov)](https://codecov.io/gh/mitmproxy/mitmproxy)
 [![Latest Version](https://shields.mitmproxy.org/pypi/v/mitmproxy.svg)](https://pypi.python.org/pypi/mitmproxy)
 [![Supported Python versions](https://shields.mitmproxy.org/pypi/pyversions/mitmproxy.svg)](https://pypi.python.org/pypi/mitmproxy)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fchillux%2Fmitmproxy.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fchillux%2Fmitmproxy?ref=badge_shield)
 
 ``mitmproxy`` is an interactive, SSL/TLS-capable intercepting proxy with a console
 interface for HTTP/1, HTTP/2, and WebSockets.
@@ -43,3 +44,7 @@ As an open source project, mitmproxy welcomes contributions of all forms.
 Also, please feel free to join our developer Slack! However, please note that the primary purpose of our Slack is direct communication between maintainers and contributors. **If you have questions where the answer might be valuable to others, please use [GitHub Discussions](https://github.com/mitmproxy/mitmproxy/discussions) and not Slack.**
 
 [![Slack Developer Chat](https://shields.mitmproxy.org/badge/slack-mitmproxy-E01563.svg)](http://slack.mitmproxy.org/)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fchillux%2Fmitmproxy.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fchillux%2Fmitmproxy?ref=badge_large)
